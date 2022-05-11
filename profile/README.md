@@ -8,6 +8,9 @@
 ### Metbex ne demek?
 > Doldurulacak
 
+### Bünyemizdeki Botlar
+> Doldurulacak
+
 ### Yönetim kadrosu
 > Doldurulacak
 
