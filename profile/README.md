@@ -3,10 +3,10 @@
 > Doldurulacak
 
 ### Amacımız nedir?
-> Doldurulacak
+> Discord üzerinde gerçekten bot yapmak isteyen bot geliştiricilerine botlarının gelişmesinde ve büyümesinde yardımcı olmaktır.
 
 ### Metbex ne demek?
-> Doldurulacak
+> `Metbex` Azerbaycanca da `Mutfak` anlamına gelmektedir.
 
 ### Bünyemizdeki Botlar
 > Doldurulacak
